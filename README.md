@@ -34,11 +34,11 @@ You can enter your task name in your native language. However, for tasks with mu
 Provide your feedback on Priorit.AI to help us improve.
 - [x] <b>Limited purpose calendar</b> <br/>
 View a limited-purpose calendar on the main page.
-- [] <b>Payment</b> <br/>
+- [ ] <b>Payment</b> <br/>
 Support the development of our product through payment.
-- [] <b>Analytics</b> <br/>
+- [ ] <b>Analytics</b> <br/>
 Help us enhance the product and know you better.
-- [] <b>Task template</b> <br/>
+- [ ] <b>Task template</b> <br/>
 Create custom templates for repetitive tasks and set deadlines as needed.
 
 We welcome any new suggestions to make our task management tool more useful while keeping it simple.
