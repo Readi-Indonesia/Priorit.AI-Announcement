@@ -40,5 +40,7 @@ Support the development of our product through payment.
 Help us enhance the product and know you better.
 - [ ] <b>Task template</b> <br/>
 Create custom templates for repetitive tasks and set deadlines as needed.
+- [ ] <b>Task sharing</b> <br/>
+You can share your task with others, make them delegated to the right person.
 
 We welcome any new suggestions to make our task management tool more useful while keeping it simple.
